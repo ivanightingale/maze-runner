@@ -13,3 +13,5 @@ Notation:
 	Finish point: F
 	
 	Shortest path(in output): *
+
+Two examples can be found in the repository.
