@@ -1,7 +1,7 @@
 # maze-runner
 Finds the shortest path using BFS and prints it out.
 The maze file must include two integers specifying the maze's length and width on the first line.
-The file should be passed to cin.
+The file should be passed to standard input.
 
 Notation:
 
